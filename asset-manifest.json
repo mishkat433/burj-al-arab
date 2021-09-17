@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/burj-al-arab/static/css/main.4f81857c.chunk.css",
+    "main.js": "/burj-al-arab/static/js/main.4be5fa3a.chunk.js",
+    "main.js.map": "/burj-al-arab/static/js/main.4be5fa3a.chunk.js.map",
+    "runtime-main.js": "/burj-al-arab/static/js/runtime-main.e5f5ffd1.js",
+    "runtime-main.js.map": "/burj-al-arab/static/js/runtime-main.e5f5ffd1.js.map",
+    "static/js/2.e2e7b0db.chunk.js": "/burj-al-arab/static/js/2.e2e7b0db.chunk.js",
+    "static/js/2.e2e7b0db.chunk.js.map": "/burj-al-arab/static/js/2.e2e7b0db.chunk.js.map",
+    "index.html": "/burj-al-arab/index.html",
+    "static/css/main.4f81857c.chunk.css.map": "/burj-al-arab/static/css/main.4f81857c.chunk.css.map",
+    "static/js/2.e2e7b0db.chunk.js.LICENSE.txt": "/burj-al-arab/static/js/2.e2e7b0db.chunk.js.LICENSE.txt",
+    "static/media/burjalarab_cop.ecb824a5.jpg": "/burj-al-arab/static/media/burjalarab_cop.ecb824a5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5f5ffd1.js",
+    "static/js/2.e2e7b0db.chunk.js",
+    "static/css/main.4f81857c.chunk.css",
+    "static/js/main.4be5fa3a.chunk.js"
+  ]
+}
