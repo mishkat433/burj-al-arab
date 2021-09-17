@@ -9,9 +9,7 @@ import PrivateRoute from './components/PrivateRoute/PrivateRoute.js';
 export const userContex = createContext()
 
 const App = () => {
-
   const [loginUser, setLoginUser] = useState({})
-
   return (
     <userContex.Provider value={[loginUser, setLoginUser]}>
     <Router>
